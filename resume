@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hitesh Sonara - Resume</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 p-10">
+    <div class="max-w-4xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
+        <div class="bg-yellow-500 p-6 flex items-center justify-between">
+            <div>
+                <h1 class="text-black text-3xl font-bold">Hitesh Sonara</h1>
+                <p class="text-black text-lg"> Web Developer</p>
+            </div>
+            <img class="w-24 h-24 rounded-full border-4 border-black" src="cVpic.png" alt="Profile Picture">
+        </div>
+        
+        <div class="grid grid-cols-3 gap-4 p-6">
+            <div>
+                <h2 class="text-lg font-bold bg-black text-white px-4 py-2">Contact</h2>
+                <p class="mt-2 text-black"><strong>Phone:</strong> +91 9328038251</p>
+                <p class="text-black"><strong>Email:</strong> sonarahitesh168@gmail.com</p>
+                <p class="text-black"><strong>Location:</strong> Ahmedabad</p>
+                <p class="text-black"><strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/hitesh-sonara-79907726b">hitesh-sonara-79907726b</a></p>
+                
+                <h2 class="text-lg font-bold bg-black text-white px-4 py-2 mt-6">Skills</h2>
+                <ul class="list-disc pl-5 mt-2 text-black">
+                    <li><strong>Programming:</strong> JavaScript, HTML, CSS, C</li>
+                    <li><strong>Web Technologies:</strong> Frontend Development</li>
+                    <li><strong>Tools:</strong> Docker, GitHub, VS Code</li>
+                    <li><strong>Soft Skills:</strong> Problem Solving, Communication, Teamwork</li>
+                </ul>
+            </div>
+            
+            <div class="col-span-2">
+                <h2 class="text-lg font-bold bg-black text-white px-4 py-2">Objective</h2>
+                <p class="mt-2 text-black">A motivated B.Tech student with a keen interest in web technologies, JavaScript, and Docker. Seeking opportunities to apply my knowledge and skills in frontend development and software engineering.</p>
+                
+                <h2 class="text-lg font-bold bg-black text-white px-4 py-2 mt-6">Education</h2>
+                <p class="mt-2 font-bold text-black">Pandit Deendayal Energy University (PDEU)</p>
+                <p class="text-black">B.Tech in Information and Communication Technology (ICT) | 5th Semester | 2022 – Present</p>
+                
+                <h2 class="text-lg font-bold bg-black text-white px-4 py-2 mt-6">Projects</h2>
+                <p class="mt-2 font-bold text-black">Weather Dashboard</p>
+                <ul class="list-disc pl-5 text-black">
+                    <li>Web application providing real-time weather updates worldwide.</li>
+                    <li>Integrated OpenWeatherMap API for dynamic weather data.</li>
+                    <li>Built with HTML, CSS, JavaScript.</li>
+                    <li>Features: Search City Weather, Real-Time Updates, 5-Day Forecast, Dynamic UI, API Integration, Responsive Design.</li>
+                </ul>
+                
+                <h2 class="text-lg font-bold bg-black text-white px-4 py-2 mt-6">Certifications</h2>
+                <p class="mt-2 text-black">WebDev course from online Platform-Udemy</p>
+                
+                <h2 class="text-lg font-bold bg-black text-white px-4 py-2 mt-6">Achievements & Extracurricular Activities</h2>
+                <ul class="list-disc pl-5 text-black">
+                    <li>Participated in Tech Fests, or Coding Challenges.</li>
+                </ul>
+                
+                <h2 class="text-lg font-bold bg-black text-white px-4 py-2 mt-6">References</h2>
+                <p class="mt-2 text-black">Available upon request.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
